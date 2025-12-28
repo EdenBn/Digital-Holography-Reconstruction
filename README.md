@@ -56,7 +56,7 @@ analysis.
 ---
 
 ## How to Run (Demo)
-
+<img src="assets/gui_loader2.png" width="500">
 1. Clone the repository and add all folders to your MATLAB path.
 2. Run the main loader script.
 3. Select one of the datasets from the `data/` folder.
@@ -108,5 +108,6 @@ analysis.
 ├── utils/      # Helper algorithms (e.g., phase unwrapping)
 ├── assets/     # Documentation images
 └── data/       # Two example holography datasets
+
 
 
