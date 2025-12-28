@@ -1,0 +1,9 @@
+# MATLAB Autosave files
+*.asv
+*.m~
+*.autosave
+
+# MATLAB Generated files
+*.mex*
+*.p
+slprj/
