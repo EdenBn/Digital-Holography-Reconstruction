@@ -26,12 +26,6 @@ The tool features a graphical user interface (GUI) that allows users to load int
 * 🔄 **Phase Unwrapping:** Integrated Least-Squares (LSQ) unwrapping for 3D depth estimation.
 * 🛠️ **Analysis Tools:** Built-in ROI selection for calculating RMS surface roughness.
 
-## File Structure
-```text
-├── src/                  # Core logic and GUI scripts
-├── utils/                # Helper algorithms (Phase Unwrapping)
-├── assets/               # Screenshots for documentation
-└── data/                 # Link to external Demo Dataset
 
 ## How to Run (Demo)
 1\.  Clone the repository and add the folders to your MATLAB path.
@@ -72,4 +66,10 @@ The tool features a graphical user interface (GUI) that allows users to load int
 \* \*\*Phase Unwrapping Algorithm:\*\* Provided by \*\*Muhammad F. Kasim\*\* (University of Oxford, 2016), based on the work of Ghiglia \& Romero.
 
 
-
+## File Structure
+```text
+├── src/                  # Core logic and GUI scripts
+├── utils/                # Helper algorithms (Phase Unwrapping)
+├── assets/               # Screenshots for documentation
+└── data/                 # Link to external Demo Dataset
+'''
