@@ -23,7 +23,7 @@ It provides a complete workflow for reconstructing **amplitude** and **phase**
 information from off-axis digital holograms.
 
 ![GUI Loader Screenshot](assets/gui_loader1.png)
-![GUI Loader Screenshot](assets/gui_loader2.png)
+![GUI Loaded Screenshot](assets/gui_loader2.png)
 
 A graphical user interface (GUI) allows loading experimental data, adjusting
 physical reconstruction parameters, and performing quantitative 3D surface
@@ -109,3 +109,4 @@ analysis.
 ├── utils/      # Helper algorithms (e.g., phase unwrapping)
 ├── assets/     # Documentation images
 └── data/       # Two example holography datasets
+
