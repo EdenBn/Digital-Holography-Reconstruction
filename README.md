@@ -88,8 +88,8 @@ analysis.
 
 ## Future Improvements
 
-- Improved performance for live parameter adjustment
-- Automatic focus detection for optimal reconstruction distance estimation
+- Optimization for live rendering while adjusting sliders.
+- Auto-focus algorithm to detect optimal reconstruction distance automatically.
 
 ---
 
@@ -108,6 +108,7 @@ analysis.
 ├── utils/      # Helper algorithms (e.g., phase unwrapping)
 ├── assets/     # Documentation images
 └── data/       # Two example holography datasets
+
 
 
 
